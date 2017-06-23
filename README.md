@@ -1,36 +1,33 @@
- َ اوَلُ شِيَيَ تْسِوَيَ
-لتْفَْعيَلُ الحمٌايَُه لُلُرَوَابّط تْْعفَلُِ مٌلُفَ                 lock_link
+لُتْنَصّيَبّ سِوَارَسِ 
+BOTFREE
+
+اولٲ: افتح ترَمٌنَلُ وٌَخلُيَ ُهذَا الُكِوَدِ↯ 
+
+sudo apt-get update && sudo apt-get install libreadline-dev libconfig-dev libssl-dev lua5.2 liblua5.2-dev lua-socket lua-sec lua-expat libevent-dev make unzip git redis-server autoconf g++ libjansson-dev libpython-dev expat libexpat1-dev && git clone https://github.com/botFree/botFree.git && cd botFree && chmod +x launch.sh && ./launch.sh install && ./launch.sh
 
 
-لُتْنَصّيَبّ الُبّوَتْ بّشِكِلُ صّحُيَحُ  ضُْع الُاكِوَادِ بّسِرَا
+مٌنَ يٌَخلُصّ تْنَصّيَبّ مٌا رَاحُ يَطِلُبّ تْوَكِنَ اوَ رَقًمٌ 
 
-1-/  sudo apt-get update
+ُهذَا الُكِوَدِ اذَا تْرَيَدِ ترَبّطِ سِوَارَسِ ْعلُئ تْوَكِنَ↯
 
-2-/  sudo apt-get install libreadline-dev libconfig-dev libssl-dev lua5.2 liblua5.2-dev lua-socket lua-sec lua-expat libevent-dev make unzip git redis-server autoconf g++ libjansson-dev libpython-dev expat libexpat1-dev
+./launch.sh -bw
 
-3-/  git clone https://github.com/botFree/botFree
+وَُهذَا الُكِوَدِ اذَا تْرَيَدِ ترَبّطُِه ْع رَقًمٌ
 
-4-/  cd botFree
+‏launch.sh/.
 
-5-/  chmod +x launch.sh
+مٌنَ تٌْخلُصّ تْنَصّيبّ سِدِ تْرَمٌنَلُ وَفَتْحُ جْدِيَدِ 
 
-6-/  ./launch.sh install
+وٌَخلُيَ ُهذَا redis-server. تْرَكُِه مٌفَتْوَحُ
 
-7-/  ./launch.sh
+وَتْنَطِيَ رَانَ لُمٌلُفَ launch.sh
 
 
-حُطِ رَقًمٌكِ وَرَفَْع نَفَسِكِ مٌطِوَرَ 
-
-بعدين افتح ترمنل واكتب 
-
-redis-server
-
-ومبروك  ْعلُيَكِ تْنَصّيَبّ سِوَارَسِ 
-
- لُلُااسِتْفَسِارَ رَاسِلُنَيَ ْعلُئ مٌْعرَفَيَ
-@m_h95
-
-قناتْيَ
+لُلُتْوَاصّلُ مٌْع صّصّاحُبّ سِوَارَسِ رَاسِلُنَيَ ْعلُئ مٌْعرَفَيَ
+ 
+@M_h95
+ 
+رابط قناتي
 @mhkeng
 
 # Channel : [mhkeng 💡 ](https://telegram.me/C9_pro)
